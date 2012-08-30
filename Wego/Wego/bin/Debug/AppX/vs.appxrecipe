@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MERDEKA</Machine>
+    <WindowsUser>bungkring</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>724BE917D30BE9CAB11E4813AE45B67093842820CE74BBA29468423D740212E4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4c7a88c9-b495-400e-8ed6-5cab14727b7a_1.0.0.0_neutral__5ddf7ay9cfmm4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4c7a88c9-b495-400e-8ed6-5cab14727b7a_5ddf7ay9cfmm4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4c7a88c9-b495-400e-8ed6-5cab14727b7a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=bungkring</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\wego-project\wego\Wego\Wego\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-30T14:42:24.875</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-08-30T14:41:41.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T07:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T07:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T07:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T07:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-04-24T10:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-20T07:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-30T14:42:24.830</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\">
+      <Name>Microsoft.WinJS.1.0.RC</Name>
+      <Version>1.0.8377.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0.RC, MinVersion=1.0.8377.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\Microsoft.WinJS.1.0.RC.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
