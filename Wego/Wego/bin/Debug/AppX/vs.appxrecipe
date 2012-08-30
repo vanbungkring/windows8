@@ -22,7 +22,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-08-30T14:41:41.977</Modified>
+      <Modified>2012-08-30T14:46:28.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
