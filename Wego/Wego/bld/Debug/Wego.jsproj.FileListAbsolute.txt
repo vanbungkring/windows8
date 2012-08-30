@@ -7,3 +7,12 @@ D:\wego-project\wego\Wego\Wego\bld\Debug\resources.resfiles
 D:\wego-project\wego\Wego\Wego\bld\Debug\pri.resfiles
 D:\wego-project\wego\Wego\Wego\bld\Debug\LanguageQualifiers.txt
 D:\wego-project\wego\Wego\Wego\bld\Debug\ProjectArchitectures.txt
+D:\repository\windows8\Wego\Wego\bin\Debug\resources.pri
+D:\repository\windows8\Wego\Wego\bin\Debug\AppxManifest.xml
+D:\repository\windows8\Wego\Wego\bin\Debug\Wego.build.appxrecipe
+D:\repository\windows8\Wego\Wego\bld\Debug\priconfig.xml
+D:\repository\windows8\Wego\Wego\bld\Debug\layout.resfiles
+D:\repository\windows8\Wego\Wego\bld\Debug\resources.resfiles
+D:\repository\windows8\Wego\Wego\bld\Debug\pri.resfiles
+D:\repository\windows8\Wego\Wego\bld\Debug\LanguageQualifiers.txt
+D:\repository\windows8\Wego\Wego\bld\Debug\ProjectArchitectures.txt

@@ -13,46 +13,46 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\wego-project\wego\Wego\Wego\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\repository\windows8\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-08-30T14:42:24.875</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\default.html">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
       <Modified>2012-08-30T14:41:41.977</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\logo.png">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-03-20T07:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\smalllogo.png">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-03-20T07:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\splashscreen.png">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-03-20T07:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\images\storelogo.png">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-03-20T07:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\js\default.js">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\js\default.js">
       <PackagePath>js\default.js</PackagePath>
       <Modified>2012-04-24T10:59:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\css\default.css">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2012-03-20T07:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\wego\Wego\Wego\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2012-08-30T14:42:24.830</Modified>
     </AppxPackagedFile>
