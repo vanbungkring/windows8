@@ -1,0 +1,13 @@
+D:\repository\windows8\Wego\Wego\bin\x64\Debug\resources.pri
+D:\repository\windows8\Wego\Wego\bin\x64\Debug\AppxManifest.xml
+D:\repository\windows8\Wego\Wego\bin\x64\Debug\Wego.build.appxrecipe
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\priconfig.xml.intermediate
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\layout.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\resources.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\pri.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\priconfig.xml
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\layout.resfiles
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\resources.resfiles
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\pri.resfiles
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\LanguageQualifiers.txt
+D:\repository\windows8\Wego\Wego\bld\x64\Debug\ProjectArchitectures.txt
