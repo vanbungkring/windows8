@@ -5,7 +5,7 @@
     <WindowsUser>bungkring</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>724BE917D30BE9CAB11E4813AE45B67093842820CE74BBA29468423D740212E4</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>CEFF95438FFC9BBFDBBCC4586481EF5DDB2ACE4C937A070285A075B4980FF7E9</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4c7a88c9-b495-400e-8ed6-5cab14727b7a_1.0.0.0_neutral__5ddf7ay9cfmm4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4c7a88c9-b495-400e-8ed6-5cab14727b7a_5ddf7ay9cfmm4!App</RegisteredUserModeAppID>
     <RegisteredPackageID>4c7a88c9-b495-400e-8ed6-5cab14727b7a</RegisteredPackageID>
@@ -16,13 +16,21 @@
     <AppXManifest Include="D:\repository\windows8\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-08-30T14:42:24.875</Modified>
+      <Modified>2012-08-31T09:49:15.952</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+      <Modified>2012-08-31T11:14:42.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-20T07:36:56.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-08-30T14:46:28.877</Modified>
+      <Modified>2012-08-30T16:14:49.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -48,13 +56,9 @@
       <PackagePath>js\default.js</PackagePath>
       <Modified>2012-04-24T10:59:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-03-20T07:36:56.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-08-30T14:42:24.830</Modified>
+      <Modified>2012-08-30T16:14:41.518</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -16,3 +16,7 @@ D:\repository\windows8\Wego\Wego\bld\Debug\resources.resfiles
 D:\repository\windows8\Wego\Wego\bld\Debug\pri.resfiles
 D:\repository\windows8\Wego\Wego\bld\Debug\LanguageQualifiers.txt
 D:\repository\windows8\Wego\Wego\bld\Debug\ProjectArchitectures.txt
+D:\repository\windows8\Wego\Wego\bld\Debug\priconfig.xml.intermediate
+D:\repository\windows8\Wego\Wego\bld\Debug\layout.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\Debug\resources.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\Debug\pri.resfiles.intermediate

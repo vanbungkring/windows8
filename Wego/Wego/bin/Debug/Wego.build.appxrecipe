@@ -13,6 +13,12 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
@@ -34,9 +40,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\repository\windows8\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
