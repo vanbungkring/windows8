@@ -1,22 +1,53 @@
-﻿body {
+﻿/*
+    main body color*/
+body
+{
     width: 100%;
     background-color: #fff;
     color: #000;
 }
 
-p {
-    color: #000;
+
+
+@media screen and (-ms-view-state: fullscreen-landscape)
+{
+}
+
+@media screen and (-ms-view-state: filled)
+{
+}
+
+@media screen and (-ms-view-state: snapped)
+{
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait)
+{
 }
 
 
-@media screen and (-ms-view-state: fullscreen-landscape) {
+p
+{
+    color: #ff6600;
 }
 
-@media screen and (-ms-view-state: filled) {
+label
+{
+    color: #fff;
+    margin-bottom: 5px;
+    display: block;
 }
 
-@media screen and (-ms-view-state: snapped) {
+.wego-headerLabel
+{
+    margin-bottom: 20px;
+    color: #fff;
 }
 
-@media screen and (-ms-view-state: fullscreen-portrait) {
+.wego-searchBox
+{
+    width: 24%;
+    padding: 10px;
+    background: #ff6600;
+    height: 100%;
 }
