@@ -1,6 +1,10 @@
 D:\repository\windows8\Wego\Wego\bin\x86\Debug\resources.pri
 D:\repository\windows8\Wego\Wego\bin\x86\Debug\AppxManifest.xml
 D:\repository\windows8\Wego\Wego\bin\x86\Debug\Wego.build.appxrecipe
+D:\repository\windows8\Wego\Wego\bld\x86\Debug\priconfig.xml.intermediate
+D:\repository\windows8\Wego\Wego\bld\x86\Debug\layout.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\x86\Debug\resources.resfiles.intermediate
+D:\repository\windows8\Wego\Wego\bld\x86\Debug\pri.resfiles.intermediate
 D:\repository\windows8\Wego\Wego\bld\x86\Debug\priconfig.xml
 D:\repository\windows8\Wego\Wego\bld\x86\Debug\layout.resfiles
 D:\repository\windows8\Wego\Wego\bld\x86\Debug\resources.resfiles

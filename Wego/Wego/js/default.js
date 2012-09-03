@@ -6,6 +6,10 @@
     var app = WinJS.Application;
     var activation = Windows.ApplicationModel.Activation;
     WinJS.strictProcessing();
+    function initMain(eventInfo) {
+        var msg = new Windows.UI.Popups.MessageDialog("GoodBye, see you soon!");
+        msg.showAsync().then();
+    }
 
     app.onactivated = function (args) {
         if (args.detail.kind === activation.ActivationKind.launch) {
@@ -16,6 +20,9 @@
                 // TODO: This application has been reactivated from suspension.
                 // Restore application state here.
             }
+            submit.addEventListener('click', function (e) {
+                initMain();
+            })
             args.setPromise(WinJS.UI.processAll());
         }
     };
